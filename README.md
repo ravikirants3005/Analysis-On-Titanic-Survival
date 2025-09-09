@@ -8,7 +8,20 @@ Prepare to set sail on a data-driven adventure back to 1912\! This project isn't
 
 **This isn't your average, boring data project\!** We're going to make this journey crazy, interactive, and super explanatory. So grab your life vests (of knowledge\!) and let's dive in\!
 
-
+'
+               |    |    |    |
+              )_)  )_)  )_)  )_)
+             /|/  /|/  /|/  /|/
+            / |  / |  / |  / |
+        __ /__| /__| /__| /__| __
+       |--- -- -- -- -- -- -- ---|
+     --|-------------------------|--
+       |                         |
+    __/|_________________________|\__
+   |                                 |
+   \_________________________________/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'
 
 ## 🎯 **Project Goal** 🎯
 
