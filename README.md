@@ -1,6 +1,4 @@
-# Analysis-On-Titanic-Survival
-
-# 🚢 Titanic Survival Analysis: A Deep Dive into the Legendary Shipwreck\! 🚢
+#🚢 Titanic Survival Analysis: A Deep Dive into the Legendary Shipwreck\! 🚢
 
 ## 🌊 **Welcome Aboard, Data Explorers\!** 🌊
 
